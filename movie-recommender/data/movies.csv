@@ -1,0 +1,66 @@
+id,title,year,genres,keywords,overview,rating
+1,The Shawshank Redemption,1994,Drama,prison friendship hope escape injustice,A banker wrongly convicted of murder builds an unlikely friendship in prison and quietly plans his freedom.,9.3
+2,The Godfather,1972,Crime|Drama,mafia family power loyalty betrayal,An aging crime boss hands his empire to a reluctant son who is pulled deeper into the family business.,9.2
+3,The Dark Knight,2008,Action|Crime|Drama,batman joker chaos vigilante gotham,A masked vigilante faces an anarchic criminal mastermind who pushes a city to its moral limits.,9.0
+4,Pulp Fiction,1994,Crime|Drama,hitmen los angeles nonlinear dark humor,Intertwined stories of hitmen a boxer and a gangster's wife unfold out of order in Los Angeles.,8.9
+5,Forrest Gump,1994,Drama|Romance,history simple man love destiny,A kind-hearted man with a low IQ drifts through decades of American history while chasing his childhood love.,8.8
+6,Inception,2010,Action|Sci-Fi|Thriller,dreams heist subconscious mind-bending,A thief who steals secrets from dreams is offered a chance to plant an idea inside a target's mind.,8.8
+7,The Matrix,1999,Action|Sci-Fi,simulation reality hacker rebellion,A hacker discovers the world is a computer simulation and joins a rebellion against its machine rulers.,8.7
+8,Interstellar,2014,Adventure|Drama|Sci-Fi,space wormhole time father earth survival,Explorers travel through a wormhole in search of a new home for humanity as Earth fades.,8.7
+9,Fight Club,1999,Drama|Thriller,underground identity rebellion twist insomnia,An office worker and a charismatic soap salesman start a secret fight group that spirals out of control.,8.8
+10,Goodfellas,1990,Biography|Crime|Drama,mafia rise and fall gangster new york,A young man rises through the ranks of the mob and watches his world collapse.,8.7
+11,Se7en,1995,Crime|Mystery|Thriller,serial killer detective sins dark,Two detectives hunt a killer who stages murders around the seven deadly sins.,8.6
+12,The Silence of the Lambs,1991,Crime|Thriller|Horror,serial killer fbi cannibal psychological,A young FBI trainee seeks advice from an imprisoned genius to catch another killer.,8.6
+13,Parasite,2019,Comedy|Drama|Thriller,class poor rich family deception,A poor family schemes its way into the lives of a wealthy household with unexpected consequences.,8.5
+14,Spirited Away,2001,Animation|Adventure|Fantasy,spirits bathhouse witch family magic,A girl wanders into a spirit world and must work in a bathhouse to free her parents.,8.6
+15,The Lion King,1994,Animation|Adventure|Drama,africa lions kingdom revenge family,A young lion prince flees his kingdom after his father's death and must return to claim his place.,8.5
+16,Toy Story,1995,Animation|Adventure|Comedy,toys friendship rivalry childhood,A cowboy doll feels threatened when a new space ranger toy becomes his owner's favorite.,8.3
+17,Finding Nemo,2003,Animation|Adventure|Comedy,ocean fish father son journey,A timid clownfish crosses the ocean to rescue his captured son.,8.2
+18,Up,2009,Animation|Adventure|Comedy,balloons elderly adventure grief friendship,A widower ties thousands of balloons to his house and flies to South America with an unexpected stowaway.,8.3
+19,Inside Out,2015,Animation|Adventure|Comedy,emotions childhood mind growing up,The emotions inside a young girl's head struggle to cope when her family moves to a new city.,8.1
+20,Coco,2017,Animation|Adventure|Family,music family afterlife tradition,A boy who dreams of being a musician enters the land of the dead to uncover his family's past.,8.4
+21,The Avengers,2012,Action|Adventure|Sci-Fi,superheroes team alien invasion,A team of superheroes must unite to stop an alien invasion of Earth.,8.0
+22,Iron Man,2008,Action|Adventure|Sci-Fi,billionaire armor inventor superhero,A weapons tycoon builds a powered suit to escape captivity and then fights those who misuse his technology.,7.9
+23,Avengers: Endgame,2019,Action|Adventure|Drama,superheroes time travel sacrifice finale,The surviving heroes attempt a final gambit to undo a cosmic disaster.,8.4
+24,Black Panther,2018,Action|Adventure|Sci-Fi,african kingdom hidden nation king technology,A young king returns home to take the throne of a hidden and technologically advanced nation and faces a challenger.,7.3
+25,Joker,2019,Crime|Drama|Thriller,mental illness clown society descent,A failed comedian slides into violence as the city around him turns against the vulnerable.,8.4
+26,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi,desert chase post-apocalyptic survival rebels,A fugitive warrior and a drifter race across a wasteland in a ruthless chase.,8.1
+27,Gladiator,2000,Action|Adventure|Drama,rome arena revenge general emperor,A betrayed Roman general becomes a gladiator and seeks vengeance against the emperor who destroyed his family.,8.5
+28,Titanic,1997,Drama|Romance,ship disaster love class tragedy,A young couple from different social classes fall in love aboard a doomed ocean liner.,7.9
+29,La La Land,2016,Comedy|Drama|Music|Romance,jazz dreams los angeles musical love,An aspiring actress and a jazz pianist chase their dreams while their relationship is tested.,8.0
+30,Whiplash,2014,Drama|Music,drummer obsession teacher ambition,A young drummer is pushed to the edge by a ruthless conservatory instructor.,8.5
+31,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy|Action,ring quest wizard hobbit middle-earth,A hobbit and a band of allies set out to destroy a powerful ring and defeat a dark lord.,8.8
+32,Harry Potter and the Sorcerer's Stone,2001,Adventure|Family|Fantasy,wizard school magic orphan,An orphan learns he is a wizard and begins his first year at a school of magic.,7.6
+33,Star Wars: A New Hope,1977,Action|Adventure|Fantasy|Sci-Fi,rebels empire farm boy space force,A farm boy joins a smuggler and a princess to fight an evil galactic empire.,8.6
+34,Jurassic Park,1993,Action|Adventure|Sci-Fi,dinosaurs island theme park cloning,Scientists visit a park of cloned dinosaurs just as the security systems fail.,8.2
+35,Back to the Future,1985,Adventure|Comedy|Sci-Fi,time travel teenager delorean past,A teenager travels to 1955 and must make sure his parents fall in love so he can exist.,8.5
+36,Blade Runner 2049,2017,Drama|Mystery|Sci-Fi,replicants future detective ai,A new blade runner uncovers a secret that could plunge what remains of society into chaos.,8.0
+37,Alien,1979,Horror|Sci-Fi,spaceship creature crew survival,The crew of a commercial spaceship is stalked by a deadly creature they brought aboard.,8.5
+38,The Terminator,1984,Action|Sci-Fi,cyborg future war time travel,A cyborg assassin is sent back in time to kill the woman whose son will lead the human resistance.,8.1
+39,Get Out,2017,Horror|Mystery|Thriller,race suburbs hypnosis family secret,A young man visits his girlfriend's family and discovers a disturbing secret.,7.8
+40,The Shining,1980,Horror|Mystery,hotel isolation madness family haunted,A writer and his family caretake an isolated hotel where something sinister takes hold of him.,8.4
+41,A Quiet Place,2018,Drama|Horror|Sci-Fi,silence monsters family survival,A family lives in silence to avoid creatures that hunt by sound.,7.5
+42,Knives Out,2019,Comedy|Crime|Mystery,whodunit family detective inheritance,A detective investigates the death of a wealthy novelist surrounded by his scheming family.,7.9
+43,The Grand Budapest Hotel,2014,Adventure|Comedy|Crime,hotel concierge heist quirky europe,A legendary concierge and his lobby boy are caught up in the theft of a priceless painting.,8.1
+44,Superbad,2007,Comedy,high school friends party teenage,Two high school friends try to get alcohol for a party before graduation.,7.6
+45,The Hangover,2009,Comedy,bachelor party las vegas missing groom,Three friends wake up after a bachelor party with no memory and a missing groom.,7.7
+46,Bridesmaids,2011,Comedy|Romance,wedding friendship rivalry,A maid of honor's life unravels as she competes with a rival to plan her best friend's wedding.,6.8
+47,The Notebook,2004,Drama|Romance,love letters summer memory,A man reads to an elderly woman the story of a passionate summer romance.,7.8
+48,Pride and Prejudice,2005,Drama|Romance,england class wit marriage,A spirited young woman and a proud gentleman misjudge each other in Regency England.,7.8
+49,Before Sunrise,1995,Drama|Romance,vienna conversation train strangers,Two strangers meet on a train and spend one night walking and talking through Vienna.,8.1
+50,Schindler's List,1993,Biography|Drama|History,holocaust factory rescue war,A businessman saves over a thousand Jewish workers from extermination during World War II.,9.0
+51,Saving Private Ryan,1998,Drama|War|Action,world war ii soldiers rescue d-day,A squad of soldiers is sent behind enemy lines to bring home a paratrooper whose brothers have died.,8.6
+52,1917,2019,Drama|War|Thriller,world war i messenger trenches single shot,Two young soldiers race across enemy territory to deliver a message that could save hundreds.,8.2
+53,The Social Network,2010,Biography|Drama,facebook startup betrayal college,A student builds a website that becomes a global phenomenon and loses friends along the way.,7.8
+54,Oppenheimer,2023,Biography|Drama|History,atomic bomb physicist war guilt,The scientist who led the creation of the atomic bomb wrestles with its consequences.,8.3
+55,Gone Girl,2014,Drama|Mystery|Thriller,missing wife marriage media twist,A man becomes the prime suspect when his wife vanishes on their anniversary.,8.1
+56,Shutter Island,2010,Mystery|Thriller,asylum island detective psychological twist,A US marshal investigates a patient's disappearance from a remote psychiatric hospital.,8.2
+57,Memento,2000,Mystery|Thriller,memory loss revenge nonlinear,A man with short-term memory loss hunts his wife's killer using notes and tattoos.,8.4
+58,The Prestige,2006,Drama|Mystery|Sci-Fi,magicians rivalry obsession illusion,Two rival magicians escalate a bitter feud in pursuit of the ultimate trick.,8.5
+59,John Wick,2014,Action|Crime|Thriller,assassin revenge dog underworld,A retired hitman returns to the underworld to avenge a personal loss.,7.4
+60,Dune,2021,Action|Adventure|Drama|Sci-Fi,desert planet spice prophecy empire,A noble heir takes charge of a desert planet that holds the galaxy's most valuable resource.,8.0
+61,Ratatouille,2007,Animation|Comedy|Family,paris chef rat cooking dream,A rat with a gift for cooking teams up with a clumsy kitchen worker in a Paris restaurant.,8.1
+62,WALL-E,2008,Animation|Adventure|Sci-Fi,robot earth trash love space,A lonely cleanup robot on a deserted Earth follows a probe into space and changes humanity's course.,8.4
+63,The Truman Show,1998,Comedy|Drama|Sci-Fi,reality tv fake world surveillance,A man slowly realizes his entire life is a television show.,8.2
+64,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,memory erasing breakup love,A couple undergoes a procedure to erase each other from their memories.,8.3
+65,Everything Everywhere All at Once,2022,Action|Adventure|Comedy|Sci-Fi,multiverse family laundromat taxes,An overwhelmed laundromat owner is pulled into a multiverse war and must connect with her family.,7.8
